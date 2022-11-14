@@ -2,7 +2,7 @@
 share: TRUE
 title: "Twitter"
 ---
-up::
+up:: [[Social Media MOC]]
 tags:: #twitter #socialmedia
 
 
@@ -16,4 +16,3 @@ If you're interested, here's a sampling of my latest tweets.
 <a class="twitter-timeline" href="https://twitter.com/sean808080?ref_src=twsrc%5Etfw">Tweets by sean808080</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
-[[index]]

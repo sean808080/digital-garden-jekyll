@@ -24,3 +24,5 @@ Two main things become evident around this:
 
 2. I feel the least patriotic when listening to others talk about patriotism.  Inevitably, when people are taking about patriotism it is inextricably tied to a goal they have in their language.  Rarely do you hear about someone's take on patriotism for its own sake.  More often that not, it's a poorly veiled excuse at divisive language set up to reinforce the US against THEM.  
 
+---
+[[index]]

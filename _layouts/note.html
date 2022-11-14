@@ -16,6 +16,14 @@ layout: default
       {{ content }}
     </content>
 
+
+<hr>
+
+<p>Here are all the notes, along with their links, visualized as a graph.
+	You can click on a node to open the note. #knowledgegraph</p>
+
+{% include notes_graph.html %}
+
     <side style="font-size: 0.5em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
@@ -38,10 +46,3 @@ layout: default
     </side>
   </div>
 </article>
-
-<hr>
-
-<p>Here are all the notes, along with their links, visualized as a graph.
-	You can click on a node to open the note. #knowledgegraph</p>
-
-{% include notes_graph.html %}

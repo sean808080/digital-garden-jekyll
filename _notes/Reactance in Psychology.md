@@ -19,3 +19,7 @@ tags:: #psychology #happiness #definition
 
 
 from [[The Psychology of Money]]
+
+
+---
+[[index]]

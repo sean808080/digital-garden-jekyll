@@ -23,4 +23,4 @@ Where:
 - E. 30th street in NYC
 
 ---
-[index](index)
+[[index]]

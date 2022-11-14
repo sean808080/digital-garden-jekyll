@@ -41,3 +41,8 @@ share: TRUE
 ## New highlights added November 13, 2022 at 9:01 PM
 - She remembers the Buddha’s words: A tree is a wondrous thing that shelters, feeds, and protects all living things. It even offers shade to the axmen who destroy it. ([Location 3455](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3455))
 - She hates the phone. Handheld schizophrenia. Unseen voices whispering to you from a distance. ([Location 3485](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3485))
+
+
+
+---
+[index](index)

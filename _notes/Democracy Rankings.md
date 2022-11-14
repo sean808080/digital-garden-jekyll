@@ -9,7 +9,11 @@ tags:: #government #politics
 
 # Democracy Rankings 
 
+### As I get older, I find myself rethinking the basic assumption that I will be born and die in the same country.  One of the criteria I think as important for considering what countries to live in is
 
+> how healthy is the democracy of this country?
+
+Below are the most recent rankings of the countries with the healthiest functioning democratic governments across two indexes.  Sadly, the USA doesn't crack the top 10 and in fact, it's position has fallen in recent years.
 
 
 ### Rankings
@@ -43,3 +47,9 @@ DEMOCRACY INDEX
 
 
 ![9B133BCB-0AF0-4E69-9061-09957FB35C84.jpeg](../docs/images/9B133BCB-0AF0-4E69-9061-09957FB35C84.jpeg)
+
+
+
+
+---
+[index](index)

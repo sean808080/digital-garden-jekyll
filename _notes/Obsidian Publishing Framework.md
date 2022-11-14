@@ -6,3 +6,6 @@ tag: obsidian
 # Obsidian Publish Framework
 
 ![[PaperJournal1.jpeg]]
+
+---
+[[index]]

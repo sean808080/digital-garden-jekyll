@@ -89,3 +89,8 @@ share: TRUE
 - Charlie Munger once said “I did not intend to get rich. I just wanted to get independent.” We can leave aside rich, but independence has always been my personal financial goal. ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=2211))
 - Independence, to me, doesn’t mean you’ll stop working. It means you only do the work you like with people you like at the times you want for as long as you want. ([Location 2222](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=2222))
 - My investing strategy doesn’t rely on picking the right sector, or timing the next recession. It relies on a high savings rate, patience, and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things—especially the first two, which I can control. ([Location 2289](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=2289))
+
+
+
+---
+[index](index)

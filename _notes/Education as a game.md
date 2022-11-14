@@ -18,3 +18,6 @@ Along the way are many obstacles:
 - Assignments   
 - Applications
 If you treat it as a game that you must play to win it offloads some of the stress and panic of being out of your comfort zone again and again.  
+
+---
+[[index]]

@@ -23,3 +23,7 @@ dates:: 1948 -
 > Jones was ranked 82nd on VH1's 100 Greatest Women of Rock and Roll (1999). In 2008, she was honored with a Q Idol Award. Jones influenced the cross-dressing movement of the 1980s and has been cited as an inspiration for multiple artists, including Annie Lennox, Lady Gaga, Rihanna, Solange, Lorde, Róisín Murphy, Brazilian Girls, Nile Rodgers, Santigold, and Basement Jaxx. In 2016, Billboard ranked her as the 40th greatest dance club artist of all time.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grace%20Jones)
+
+
+---
+[[index]]

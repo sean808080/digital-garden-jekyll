@@ -25,3 +25,6 @@ title: "Five Dialogues"
 - “This man among you, mortals, is wisest who, like Socrates, understands that his wisdom is worthless.” ([Location 516](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=516))
 ## New highlights added November 12, 2022 at 5:25 PM
 - To fear death, gentlemen, is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=627))
+
+---
+[[index]]

@@ -5,14 +5,14 @@ tags:: #people #artist
 dates:: 1948 - 
 
 # Grace Jones
-![600](../docs/images/Grace-Jones-Header-Press-4273480499.jpeg)
+![[Grace-Jones-Header-Press-4273480499.jpeg|600]]
 
 
-- She reminds me of [Lee Scratch Perry](Lee%20Scratch%20Perry) because like him, she is willing to seem crazy or eccentric in the pursuit of her art.  Less about pleasing anyone and more about realizing the vision that she is compelled to bring to life.  
-- She's also similar because she defies expectation.  A little girl from a challenging home life in Jamaica who moves to Buffalo, takes acid, moves to Paris, becomes a model and toast of the town only to lean into art by becoming a living conceptual art piece in her production of  [A One Man Show](A%20One%20Man%20Show) created in partnership with husband [Jean Paul Goude](Jean%20Paul%20Goude.md).
+- She reminds me of [[Lee Scratch Perry]] because like him, she is willing to seem crazy or eccentric in the pursuit of her art.  Less about pleasing anyone and more about realizing the vision that she is compelled to bring to life.  
+- She's also similar because she defies expectation.  A little girl from a challenging home life in Jamaica who moves to Buffalo, takes acid, moves to Paris, becomes a model and toast of the town only to lean into art by becoming a living conceptual art piece in her production of  [[A One Man Show]] created in partnership with husband [[Jean Paul Goude]].
 - She's different because unlike most people, she does not seek to moderate her voice and presentation to make people comfortable.  Rather she is unafraid of confrontation.  You will see her and you will deal with her as she is. The opposite of a shrinking violet or geisha.
-- She's important because she defies so many limits and constraints through sheer will power.  Her work with [Issey Miyake](Issey%20Miyake.md) is a perfect example.  A woman from Jamaica who becomes close to a Japanese designer and absorbs and transforms the fruits of that friendship into inputs for her own art.  That is pure creativity and magic.
-![25GORDINIER-superJumbo.jpg.webp](../docs/images/25GORDINIER-superJumbo.jpg.webp)
+- She's important because she defies so many limits and constraints through sheer will power.  Her work with [[Issey Miyake]] is a perfect example.  A woman from Jamaica who becomes close to a Japanese designer and absorbs and transforms the fruits of that friendship into inputs for her own art.  That is pure creativity and magic.
+![[25GORDINIER-superJumbo.jpg.webp]]
 
 > Grace Beverly Jones  (born 19 May 1948) is a model, singer and actress. Born in Jamaica, she and her family moved to Syracuse, New York, when she was a teenager. Jones began her modelling career in New York state, then in Paris, working for fashion houses such as Yves St. Laurent and Kenzo, and appearing on the covers of Elle and Vogue. She notably worked with photographers such as Jean-Paul Goude, Helmut Newton, Guy Bourdin, and Hans Feurer, and became known for her distinctive androgynous appearance and bold features.
 >

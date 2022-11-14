@@ -2,7 +2,7 @@
 share: TRUE
 title: "Reactance in Psychology"
 ---
-up:: [Health MOC](Health%20MOC.md)
+up:: [[Health MOC]]
 tags:: #psychology #happiness #definition
 
 
@@ -18,4 +18,4 @@ tags:: #psychology #happiness #definition
 4. Reactance to a threat may increase when there are implications of other threats. For instance, if a professor asks a student not to eat in class, the student may infer that this also means not to drink coffee or have water. The reactance will thus increase.1
 
 
-from [The Psychology of Money](The%20Psychology%20of%20Money)
+from [[The Psychology of Money]]

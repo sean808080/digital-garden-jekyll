@@ -14,7 +14,3 @@ We were living in Queens, New York, and spending a lot of time looking for an ap
 
 That was the school year I stayed home, almost the entire year showing up for finals. Because the schools were not great to say the least, I aced the finals, to the teacher's pleasant surprise.
 
-
-
----
-[[index]]

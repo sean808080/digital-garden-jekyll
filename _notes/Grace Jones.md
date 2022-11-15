@@ -6,6 +6,9 @@ tags:: #people #artist
 dates:: 1948 - 
 
 # Grace Jones
+
+![grace jones](https://images-na.ssl-images-amazon.com/images/I/41Pju5BcBwL._SX466_.jpg)
+
 ![[Grace-Jones-Header-Press-4273480499.jpeg|600]]
 
 

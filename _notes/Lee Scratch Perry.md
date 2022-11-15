@@ -3,7 +3,7 @@ share: TRUE
 title: "Lee Scratch Perry"
 ---
 
-up:: [Art and Music MOC](Art%20and%20Music%20MOC)
+up:: [[Art and Music MOC]]
 tags:: #people #artist 
 dates:: 1936 - 2021
 
@@ -12,17 +12,17 @@ dates:: 1936 - 2021
 [![Perry performing in Munich, 2016](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lee_Scratch_Perry_2016_%289_von_13%29.jpg/280px-Lee_Scratch_Perry_2016_%289_von_13%29.jpg)](https://en.wikipedia.org/wiki/File:Lee_Scratch_Perry_2016_(9_von_13).jpg "Perry performing in Munich, 2016")
 Perry performing in [Munich](https://en.wikipedia.org/wiki/Munich "Munich"), 2016
 
- The definition of a crazy artist who shifts from genre to genre and time to time.   He reminds me of [Salvador Dali](Salvador%20Dali) in some respects because his unwillingness to moderate his expression leaves the audience to figure it out and that may take time so the work stands.  It's similar to the creative minds that tinkered in their labs and studios, running experiments that mostly fail but once in a while something magical happens.   He's different than most mad geniuses because:
+ The definition of a crazy artist who shifts from genre to genre and time to time.   He reminds me of [[Salvador Dali]] in some respects because his unwillingness to moderate his expression leaves the audience to figure it out and that may take time so the work stands.  It's similar to the creative minds that tinkered in their labs and studios, running experiments that mostly fail but once in a while something magical happens.   He's different than most mad geniuses because:
 - he is black
 - he was born poor
 - he does not play or read music
 - he speaks almost entirely from biblical passages
-- he is an evangelist for [Rastafarianism](Rastafarianism.md)
-- he sings about the [IMF](IMF.md)
-- he moved to [Switzerland](Switzerland.md)
+- he is an evangelist for [[Rastafarianism]]
+- he sings about the [[IMF]]
+- he moved to [[Switzerland]]
 - he relies heavily on [Nyabinghi rhythm - Wikipedia](https://en.wikipedia.org/wiki/Nyabinghi_rhythm)
 
-He is important to me personally because there are only a few people that make me proud to be Jamaican and he is one of them (another is [Grace Jones](Grace%20Jones).  In a more general sense, he is important because he shattered so many stereotypes about reggae musicians and Jamaicans from the wrong side of the track in that he created a uniquely personal world in his black ark studios and when that ran it's course he relocated to the whitest place on earth, [Switzerland](Switzerland.md)
+He is important to me personally because there are only a few people that make me proud to be Jamaican and he is one of them (another is [[Grace Jones]].  In a more general sense, he is important because he shattered so many stereotypes about reggae musicians and Jamaicans from the wrong side of the track in that he created a uniquely personal world in his black ark studios and when that ran it's course he relocated to the whitest place on earth, [[Switzerland]]
 
 ### What was the most memorable thing about this person?
 

@@ -2,7 +2,7 @@
 share: TRUE
 title: "Twitter"
 ---
-up:: [Social Media MOC](Social%20Media%20MOC)
+up:: [[Social Media MOC]]
 tags:: #twitter #socialmedia
 
 

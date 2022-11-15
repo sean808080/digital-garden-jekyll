@@ -2,7 +2,7 @@
 share: TRUE
 title: "Digital Love Languages"
 ---
-up:: [Reading and Writing MOC](Reading%20and%20Writing%20MOC)
+up:: [[Reading and Writing MOC]]
 tags:: #lovelanguages #communication
 
 # Digital love languages
@@ -11,5 +11,5 @@ Digital Love Languages https://www.swiss-miss.com/2022/10/digital-love-languages
 
 
 
-![400](../docs/images/311802552_1191477991433747_2048556905825583560_n-1024x1024.jpg)
+![[311802552_1191477991433747_2048556905825583560_n-1024x1024.jpg|400]]
 

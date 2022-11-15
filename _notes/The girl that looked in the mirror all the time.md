@@ -1,7 +1,7 @@
 ---
 share: TRUE
 ---
-up:: [Reading and Writing MOC](Reading%20and%20Writing%20MOC)
+up:: [[Reading and Writing MOC]]
 tags::  #writing #randomMemory #women #psychology #mythology #voyeur #nyc
 
 

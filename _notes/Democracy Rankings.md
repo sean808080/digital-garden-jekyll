@@ -3,7 +3,7 @@ share: TRUE
 title: "Democracy Rankings"
 ---
 
-up:: [Reading and Writing MOC](Reading%20and%20Writing%20MOC)
+up:: [[Reading and Writing MOC]]
 tags:: #government #politics
 
 
@@ -46,7 +46,7 @@ DEMOCRACY INDEX
 
 
 
-![9B133BCB-0AF0-4E69-9061-09957FB35C84.jpeg](../docs/images/9B133BCB-0AF0-4E69-9061-09957FB35C84.jpeg)
+![[9B133BCB-0AF0-4E69-9061-09957FB35C84.jpeg]]
 
 
 

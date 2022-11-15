@@ -27,4 +27,4 @@ title: "Five Dialogues"
 - To fear death, gentlemen, is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=627))
 
 ---
-[[index]]
+[[Reading and Writing MOC]]

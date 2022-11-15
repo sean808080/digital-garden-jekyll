@@ -1,6 +1,7 @@
 ---
 share: TRUE
 ---
+up:: [[Reading and Writing MOC]]
 tags:: #writing #randomThoughts
 
 # Education as a game
@@ -20,4 +21,3 @@ Along the way are many obstacles:
 If you treat it as a game that you must play to win it offloads some of the stress and panic of being out of your comfort zone again and again.  
 
 ---
-[[index]]

@@ -8,7 +8,8 @@ tags:: #obsidian #drawing #ideation
 
 # Obsidian Publish Framework
 
-![screenshot](PaperJournal1.jpeg)
+
+![drawing](https://i.ibb.co/WD0ks83/Paper-Journal1.jpg)
 
 ---
 [[index]]

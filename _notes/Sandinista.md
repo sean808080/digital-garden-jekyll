@@ -2,10 +2,10 @@
 share: TRUE
 title: "Sandinista"
 ---
-up:: [[Art and Music MOC]]
+up:: [Art and Music MOC](Art%20and%20Music%20MOC)
 tags:: #randomMemory #writing 
 
-![[sandinista.jpg]]
+![sandinista.jpg](../docs/images/sandinista.jpg)
 
 # Sandinista!
 ### Listening to Sandinista by the Clash, I was instantly transported to the year. I turned 12. 

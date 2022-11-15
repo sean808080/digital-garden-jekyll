@@ -3,11 +3,11 @@ share: TRUE
 title: "Ella Fitzgerald"
 ---
 ---
-up:: [[Art and Music MOC]]
+up:: [Art and Music MOC](Art%20and%20Music%20MOC)
 tags::  #writing #randomMemory #person #artist 
 dates:: 1917-1996 
 
-![[ella-web-image.jpg]]
+![ella-web-image.jpg](../docs/images/ella-web-image.jpg)
 # Ella Fitzgerald
 
 ### What was the most memorable thing about this person?

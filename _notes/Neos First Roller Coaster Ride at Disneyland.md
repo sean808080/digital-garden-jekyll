@@ -15,4 +15,4 @@ Fortunately, no devices went flying and we all lived.
 
 
 ---
-[[index]]
+[index](index)

@@ -5,7 +5,7 @@
 share: TRUE
 title: "Art and Music MOC"
 ---
-up:: [[index]]
+up:: [index](index)
 tags:: #moc 
 
 ![Kick back,](https://images.unsplash.com/photo-1487180144351-b8472da7d491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjAwOTd8MHwxfHNlYXJjaHwzfHxhcnQlMjBhbmQlMjBtdXNpY3xlbnwwfDB8fHwxNjY4NDYzMTgx&ixlib=rb-4.0.3&q=80&w=1080)
@@ -14,13 +14,13 @@ tags:: #moc
 
 # Art and Music MOC
 
-[[Salvador Dali]]
-[[Ella Fitzgerald]]
-[[Grace Jones]]
-[[Lee Scratch Perry]]
-[[A One Man Show]]
-[[Tennessee Williams]]
-[[Sandinista]]
+[Salvador Dali](Salvador%20Dali)
+[Ella Fitzgerald](Ella%20Fitzgerald)
+[Grace Jones](Grace%20Jones)
+[Lee Scratch Perry](Lee%20Scratch%20Perry)
+[A One Man Show](A%20One%20Man%20Show)
+[Tennessee Williams](Tennessee%20Williams)
+[Sandinista](Sandinista)
 
 
 

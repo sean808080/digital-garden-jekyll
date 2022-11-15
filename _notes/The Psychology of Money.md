@@ -6,23 +6,23 @@ share: TRUE
 ![rw-book-cover](https://m.media-amazon.com/images/I/81sLmoRqLiL._SY160.jpg)
 
 ## Metadata
-- Author:: [[Morgan Housel]]
+- Author:: [Morgan Housel](Morgan%20Housel.md)
 - Full Title:: The Psychology of Money
 - Category:: #books
 
 ## Highlights
 - The premise of this book is that doing well with money has a little to do with how smart you are and a lot to do with how you behave. And behavior is hard to teach, even to really smart people. ([Location 41](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=41))
-    - Tags: [[orange]] 
+    - Tags: [orange](orange.md) 
 - A genius who loses control of their emotions can be a financial disaster. The opposite is also true. Ordinary folks with no financial education can be wealthy if they have a handful of behavioral skills that have nothing to do with formal measures of intelligence. ([Location 42](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=42))
-    - Tags: [[pink]] 
+    - Tags: [pink](pink.md) 
 - My favorite Wikipedia entry begins: “Ronald James Read was an American philanthropist, investor, janitor, and gas station attendant.” ([Location 44](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=44))
-    - Tags: [[orange]] 
+    - Tags: [orange](orange.md) 
 - Ronald Read was patient; Richard Fuscone was greedy. That’s all it took to eclipse the massive education and experience gap between the two. ([Location 71](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=71))
-    - Tags: [[orange]] 
+    - Tags: [orange](orange.md) 
 - financial success is not a hard science. It’s a soft skill, where how you behave is more important than what you know. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=80))
-    - Tags: [[orange]] 
+    - Tags: [orange](orange.md) 
 - I love Voltaire’s observation that “History never repeats itself; man always does.” It applies so well to how we behave with money. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=115))
-    - Tags: [[pink]] 
+    - Tags: [pink](pink.md) 
 - As investor Michael Batnick says, “some lessons have to be experienced before they can be understood.” We are all victims, in different ways, to that truth. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=156))
 - If you were born in 1970, the S&P 500 increased almost 10-fold, adjusted for inflation, during your teens and 20s. That’s an amazing return. If you were born in 1950, the market went literally nowhere in your teens and 20s adjusted for inflation. Two groups of people, separated by chance of their birth year, go through life with a completely different view on how the stock market works: ([Location 174](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=174))
 - Before World War II most Americans worked until they died. That was the expectation and the reality. The labor force participation rate of men age 65 and over was above 50% until the 1940s: ([Location 233](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=233))
@@ -91,4 +91,4 @@ share: TRUE
 - My investing strategy doesn’t rely on picking the right sector, or timing the next recession. It relies on a high savings rate, patience, and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things—especially the first two, which I can control. ([Location 2289](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=2289))
 
 
-[[Reading and Writing MOC]]
+[Reading and Writing MOC](Reading%20and%20Writing%20MOC)

@@ -2,17 +2,17 @@
 share: TRUE
 title: "Social Media MOC"
 ---
-up:: [[index]]
+up:: [index](index)
 tags:: #socialmedia #moc 
 
 # Social Media MOC
 
 ### In no particular order, here's a rundown of social media platforms I use.
 
-[[Twitter]]
+[Twitter](Twitter)
 
-[[Instagram]]
+[Instagram](Instagram.md)
 
-[[facebook]]
+[facebook](facebook)
 
-[[Tumblr]]
+[Tumblr](Tumblr.md)

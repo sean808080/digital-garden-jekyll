@@ -5,7 +5,7 @@ title: "Sandinista"
 up:: [[Art and Music MOC]]
 tags:: #randomMemory #writing 
 
-![[sandinista.jpg]]
+![sandinsta cover](https://img.hmv.co.jp/image/jacket/400/55/1/1/264.jpg)]
 
 # Sandinista!
 ### Listening to Sandinista by the Clash, I was instantly transported to the year. I turned 12. 

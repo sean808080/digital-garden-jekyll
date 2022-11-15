@@ -7,7 +7,7 @@ title: "Five Dialogues"
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/316ttBQNE4L._SL200_.jpg)
 
 ## Metadata
-- Author:: [[Plato]]
+- Author:: [Plato](Plato.md)
 - Full Title:: Five Dialogues
 - Category:: #books
 
@@ -27,4 +27,4 @@ title: "Five Dialogues"
 - To fear death, gentlemen, is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=627))
 
 ---
-[[Reading and Writing MOC]]
+[Reading and Writing MOC](Reading%20and%20Writing%20MOC)

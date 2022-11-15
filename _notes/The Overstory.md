@@ -6,7 +6,7 @@ share: TRUE
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51bU%2BNFr3XL._SL200_.jpg)
 
 ## Metadata
-- Author:: [Richard Powers](Richard%20Powers.md)
+- Author:: [[Richard Powers]]
 - Full Title:: The Overstory
 - Category:: #books
 
@@ -21,15 +21,15 @@ share: TRUE
 - We all travel the Milky Way together, trees and men. . . . In every walk with nature one receives far more than he seeks. The clearest way into the universe is through a forest wilderness. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=1940))
     - Note: Muir speaks...
 - The past always comes clearer, in the future. ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2068))
-    - Tags: [favorite](favorite.md) 
+    - Tags: [[favorite]] 
 - Life will not answer to reason. ([Location 2076](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2076))
 - There are no individuals. There aren’t even separate species. Everything in the forest is the forest. ([Location 2230](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2230))
-    - Tags: [favorite](favorite.md) 
+    - Tags: [[favorite]] 
 - There are a hundred thousand species of love, separately invented, each more ingenious than the last, and every one of them keeps making things. ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2266))
 - Here’s the thing about an apple: it sticks in the throat. It’s a package deal: lust and understanding. Immortality and death. Sweet pulp with cyanide seeds. It’s a bang on the head that births up whole sciences. A golden delicious discord, the kind of gift chucked into a wedding feast that leads to endless war. It’s the fruit that keeps the gods alive. The first, worst crime, but a fortunate windfall. Blessed be the time that apple taken was. ([Location 2479](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2479))
     - Note: Have a bite.
 - No strangeness stranger than the strangeness of living things. ([Location 2748](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2748))
-    - Tags: [favorite](favorite.md) 
+    - Tags: [[favorite]] 
     - Note: Yes
 ## New highlights added November 13, 2022 at 4:01 PM
 - Quick young people, loud in their devotion, call across the tent-dotted meadow. Their noses, ears, and eyebrows flash with hardware. Dreadlocks tangle in the fibers of their multicolored garb. They stink of soil, sweat, idealism, patchouli oil, and the sweet sinsemilla grown all through these woods. ([Location 3293](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3293))
@@ -45,4 +45,4 @@ share: TRUE
 
 
 ---
-[Reading and Writing MOC](Reading%20and%20Writing%20MOC)
+[[Reading and Writing MOC]]

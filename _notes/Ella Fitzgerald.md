@@ -7,7 +7,7 @@ up:: [[Art and Music MOC]]
 tags::  #writing #randomMemory #person #artist 
 dates:: 1917-1996 
 
-![[ella-web-image.jpg]]
+![ella](ella-web-image.jpg)
 # Ella Fitzgerald
 
 ### What was the most memorable thing about this person?

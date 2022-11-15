@@ -3,7 +3,7 @@ share: TRUE
 title: "A One Man Show"
 ---
 
-up:: [[Art and Music MOC]]
+up:: [Art and Music MOC](Art%20and%20Music%20MOC)
 tags:: #art #music #video #reggae
 
 # A One Man Show

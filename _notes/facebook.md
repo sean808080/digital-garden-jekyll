@@ -3,7 +3,7 @@ share: TRUE
 title: "facebook"
 ---
 
-up:: [[Social Media MOC]]
+up:: [Social Media MOC](Social%20Media%20MOC)
 tags: #socialmedia #facebook
 
 

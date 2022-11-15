@@ -91,6 +91,4 @@ share: TRUE
 - My investing strategy doesn’t rely on picking the right sector, or timing the next recession. It relies on a high savings rate, patience, and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things—especially the first two, which I can control. ([Location 2289](https://readwise.io/to_kindle?action=open&asin=B084HJSJJ2&location=2289))
 
 
-
----
-[[index]]
+[[Reading and Writing MOC]]

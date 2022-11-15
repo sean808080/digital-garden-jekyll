@@ -1,6 +1,7 @@
 ---
 share: TRUE
 ---
+up:: [[Reading and Writing MOC]]
 tags::  #writing #randomMemory #women #psychology #mythology #voyeur #nyc
 
 
@@ -21,6 +22,3 @@ Why?:
 
 Where:
 - E. 30th street in NYC
-
----
-[[index]]

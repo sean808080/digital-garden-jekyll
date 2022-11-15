@@ -3,7 +3,7 @@ share: TRUE
 title: "Ella Fitzgerald"
 ---
 ---
-
+up:: [[Art and Music MOC]]
 tags::  #writing #randomMemory #person #artist 
 dates:: 1917-1996 
 

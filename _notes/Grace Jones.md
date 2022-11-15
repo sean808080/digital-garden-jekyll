@@ -1,6 +1,7 @@
 ---
 share: TRUE
 ---
+up:: [[Art and Music MOC]]
 tags:: #people #artist 
 dates:: 1948 - 
 
@@ -24,6 +25,3 @@ dates:: 1948 -
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grace%20Jones)
 
-
----
-[[index]]

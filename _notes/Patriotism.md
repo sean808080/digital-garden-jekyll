@@ -3,7 +3,7 @@ share: TRUE
 title: "Patriotism"
 ---
 
-up:: [Reading and Writing MOC](Reading%20and%20Writing%20MOC)
+up:: [[Reading and Writing MOC]]
 tags:: #writing #blog
 
 ![Stop Killi](https://images.unsplash.com/photo-1629626749129-2d7124893bf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjAwOTd8MHwxfHNlYXJjaHwyOHx8cGF0cmlvdGlzbXxlbnwwfDB8fHwxNjY4MzAxMTU0&ixlib=rb-4.0.3&q=80&w=1080)

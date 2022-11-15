@@ -1,6 +1,6 @@
 ---
 share: TRUE
-title: "Obsidian Publishing Framework"
+title: Obsidian Publishing Framework
 tag: obsidian
 ---
 up:: [[Tech MOC]]

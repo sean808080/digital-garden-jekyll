@@ -5,7 +5,7 @@ tag: obsidian
 ---
 # Obsidian Publish Framework
 
-![PaperJournal1.jpeg](../docs/images/PaperJournal1.jpeg)
+![[PaperJournal1.jpeg]]
 
 ---
-[index](index)
+[[index]]

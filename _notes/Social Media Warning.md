@@ -5,7 +5,7 @@ title: Social Media Warning
 up:: [[Social Media MOC]]
 tags:: #socialmedia #privacy #internet
 
-I'm old enough to remember a world before the internet.  We used to use expensive modems to join a person's bulletin board service (BBS) or dial into Compuserve or another service that was charging by the hour.
+I'm old enough to remember a world before the internet.  We used to use expensive modems to join a person's [Bulletin board system](https://en.wikipedia.org/wiki/Bulletin_board_system) also known as a BBS, or dial into [CompuServe](https://en.wikipedia.org/wiki/CompuServe) that was charging by the hour.
 
 Then we had net newsgroups which was when the universities around the world started hosting a directory of groups organized by topics.  It was still textual and simple but exciting nonetheless.
 

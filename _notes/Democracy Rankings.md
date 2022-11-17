@@ -9,7 +9,7 @@ tags:: #government #politics
 
 # Democracy Rankings 
 
-### As I get older, I find myself rethinking the basic assumption that I will be born and die in the same country.  One of the criteria I think as important for considering what countries to live in is
+### As I get older, I find myself rethinking the basic assumption that I will be born and die in the same country.  One of the criteria I think is important for consideration is:
 
 > how healthy is the democracy of this country?
 

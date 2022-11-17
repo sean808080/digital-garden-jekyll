@@ -3,7 +3,7 @@ share: TRUE
 title: What is a MOC?
 ---
 up:: [[index]]
-tags:::  #moc #pkm 
+tags::  #moc #pkm 
 
 # What is a MOC?
 

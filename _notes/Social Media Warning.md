@@ -13,8 +13,11 @@ When all of this started, you paid for access directly.  There was no personal i
 
 Fast-forward to a small search engine that people in the know bragged about.  It was called Google.  Google swung the payment basis to the other extreme.  They started tracking what you searched and your click path through other sites.  Then they offered other services like Gmail and Reader.  None of these cost you any money.  It seemed wonderful to have so much power at your fingertips and not incurring a cost.
 
-You see the problem here?  If you are not paying....
+Do you see the problem here?  If you are not paying....
 ---
+
+![What Peopl](https://images.unsplash.com/photo-1533895328642-8035bacd565a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjAwOTd8MHwxfHNlYXJjaHwxNHx8cHJpdmFjeXxlbnwwfDB8fHwxNjY4NzAwNDAy&ixlib=rb-4.0.3&q=80&w=1080)
+*Photo by [Glen Carrie](https://unsplash.com/@glencarrie?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 `the below is a clipped excerpt from an unknown source
 

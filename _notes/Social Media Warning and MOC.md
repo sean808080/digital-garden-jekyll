@@ -1,9 +1,11 @@
 ---
 share: TRUE
-title: Social Media Warning
+title: "Social Media Warning and MOC"
 ---
-up:: [[Social Media MOC]]
-tags:: #socialmedia #privacy #internet
+up:: [[index]]
+tags:: #socialmedia #moc #privacy  #internet
+
+# Social Media Warning and MOC
 
 I'm old enough to remember a world before the internet.  We used to use expensive modems to join a person's [Bulletin board system](https://en.wikipedia.org/wiki/Bulletin_board_system) also known as a BBS, or dial into [CompuServe](https://en.wikipedia.org/wiki/CompuServe) that was charging by the hour.
 
@@ -38,4 +40,14 @@ As you watch the world through your device, your device can watch you, too. The 
 
 So, next we’ll take on some of the biggest myths surrounding the internet, and a few of its dark realities. We’ll look for the roots of the online revolution in history, biology, philosophy and mathematics– in order to uncover how we got into this mess, and what we have to do to get out. 
 
+---
 
+` If you are still interested after reading the above warning, then here in no particular order is a rundown of social media platforms I use.
+
+[[Twitter]]
+
+[[Instagram]]
+
+[[facebook]]
+
+[[Tumblr]]

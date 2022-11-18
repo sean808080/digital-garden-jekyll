@@ -42,12 +42,13 @@ So, next we’ll take on some of the biggest myths surrounding the internet, and
 
 ---
 
-` If you are still interested after reading the above warning, then here in no particular order is a rundown of social media platforms I use.
+` If you are still interested after reading the above warning, then here in no particular order is a rundown of platforms I use that could be considered social media.
 
-[[Twitter]]
+- [[Twitter]]
+- [[Instagram]]
+- Flickr
+- Github
+- Mastodon
+- 
 
-[[Instagram]]
 
-[[facebook]]
-
-[[Tumblr]]

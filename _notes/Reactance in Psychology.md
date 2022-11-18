@@ -8,8 +8,6 @@ tags:: #psychology #happiness #definition
 
 # Reactance in Psychology
 
-
-
 ###  Psychological reactance revolves around the concept of freedom. Thus, our perception of freedom influences the extent to which we may show reactance. There are four basic principles implicated by the theory:
 
 1. In a given situation, reactance can only occur when an individual believes they have control or freedom over the outcome.

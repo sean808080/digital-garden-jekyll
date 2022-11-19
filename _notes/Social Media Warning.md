@@ -1,11 +1,11 @@
 ---
 share: TRUE
-title: "Social Media Warning and MOC"
+title: "Social Media Warning"
 ---
-up:: [[index]]
+up:: [[Social Media MOC]]
 tags:: #socialmedia #moc #privacy  #internet
 
-# Social Media Warning and MOC
+# Social Media Warning 
 
 I'm old enough to remember a world before the internet.  We used to use expensive modems to join a person's [Bulletin board system](https://en.wikipedia.org/wiki/Bulletin_board_system) also known as a BBS, or dial into [CompuServe](https://en.wikipedia.org/wiki/CompuServe) that was charging by the hour.
 
@@ -39,17 +39,4 @@ And so, given that life is more complicated than a hashtag, you have to diminish
 As you watch the world through your device, your device can watch you, too. The internet also functions as a new form of global surveillance, with smart devices listening in to homes, cars, workplaces and schools. They can track where you go and who else is there, even how many steps you took along the way.
 
 So, next we’ll take on some of the biggest myths surrounding the internet, and a few of its dark realities. We’ll look for the roots of the online revolution in history, biology, philosophy and mathematics– in order to uncover how we got into this mess, and what we have to do to get out. 
-
----
-
-` If you are still interested after reading the above warning, then here in no particular order is a rundown of platforms I use that could be considered social media.
-
-- My thoughts on [[Twitter]]
-- My tidbits on [[Instagram]]
-- My photos on [Flickr](https://www.flickr.com/photos/sean808080/)
-- My projects on [GitHub](https://github.com/sean808080)
-- My foray into [Mastodon](https://pkm.social/@sean808080)
-- My workouts on [Strava](https://www.strava.com)
-- My books on [Goodreads](https://www.goodreads.com/user/show/4647379-sean-808080)
-
 

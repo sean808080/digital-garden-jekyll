@@ -2,7 +2,7 @@
 share: TRUE
 title: "Twitter"
 ---
-up:: [[Social Media Warning and MOC]]
+up:: [[Social Media Warning]]
 tags:: #twitter #socialmedia
 
 

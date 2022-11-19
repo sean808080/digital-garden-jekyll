@@ -3,7 +3,7 @@ share: TRUE
 title: "facebook"
 ---
 
-up:: [[Social Media Warning and MOC]]
+up:: [[Social Media Warning]]
 tags: #socialmedia #facebook
 
 

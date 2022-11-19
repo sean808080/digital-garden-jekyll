@@ -45,4 +45,12 @@ share: TRUE
 
 
 ---
-[[Reading and Writing MOC]]
+[[Reading and Writing MOC]]## New highlights added November 18, 2022 at 11:27 AM
+- It’s a funny thing about capitalism: money you lose by slowing down is always more important than money you’ve already made. ([Location 3823](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3823))
+- Children, women, slaves, aboriginals, the ill, insane, and disabled: all changed, unthinkably, over the centuries, into persons by the law. So why shouldn’t trees and eagles and rivers and living mountains be able to sue humans for theft and endless damages? ([Location 3909](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3909))
+- It is no answer to say that streams and forests cannot have standing because streams and forests cannot speak. Corporations cannot speak, either; nor can states, estates, infants, incompetents, municipalities, or universities. Lawyers speak for them. ([Location 3920](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3920))
+## New highlights added November 18, 2022 at 7:28 PM
+- But even now, after an immense journey in separate directions, that tree and you still share a quarter of your genes. ([Location 4208](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=4208))
+    - Note: Really?
+- There’s an arms race on. The protesters begin to think they might even be able to outspend the police, who are funded by a public convinced that all taxes are theft, but giving away public timber is not. ([Location 4230](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=4230))
+    - Note: Truth

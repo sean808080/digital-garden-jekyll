@@ -44,11 +44,12 @@ So, next we’ll take on some of the biggest myths surrounding the internet, and
 
 ` If you are still interested after reading the above warning, then here in no particular order is a rundown of platforms I use that could be considered social media.
 
-- [[Twitter]]
-- [[Instagram]]
-- Flickr
-- Github
-- Mastodon
-- 
+- My thoughts on [[Twitter]]
+- My tidbits on [[Instagram]]
+- My photos on [Flickr](https://www.flickr.com/photos/sean808080/)
+- My projects on [GitHub](https://github.com/sean808080)
+- My foray into [Mastodon](https://pkm.social/@sean808080)
+- My workouts on [Strava](https://www.strava.com)
+- My books on [Goodreads](https://www.goodreads.com/user/show/4647379-sean-808080)
 
 

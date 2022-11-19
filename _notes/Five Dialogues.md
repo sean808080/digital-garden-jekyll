@@ -27,4 +27,6 @@ title: "Five Dialogues"
 - To fear death, gentlemen, is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=627))
 
 ---
-[[Reading and Writing MOC]]
+[[Reading and Writing MOC]]## New highlights added November 18, 2022 at 11:27 AM
+- Wealth does not bring about excellence, but excellence makes wealth and everything else good for men, both individually and collectively.” ([Location 647](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=647))
+- A man who really fights for justice must lead a private, not a public, life if he is to survive for even a short time. ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07GY4XR5S&location=676))

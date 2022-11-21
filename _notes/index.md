@@ -5,7 +5,7 @@ title: index
 <a data-flickr-embed="true" data-header="false" data-footer="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52494136477_69e19a03e9_n.jpg" width="240" height="320" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
-# my rusty old resurrected and reinvigorated blog
+# Can I make you a latte?
 ---
 ### Introduction
 I've decided to restart a website and instead of dealing with website administration, I'll use a few hooks to publish content to the site with a simple tag from from my text editor.

@@ -3,7 +3,7 @@ share: TRUE
 title: "A One Man Show"
 ---
 
-up:: [[Art and Music MOC]]
+up:: [[Grace Jones]]
 tags:: #art #music #video #reggae
 
 # A One Man Show

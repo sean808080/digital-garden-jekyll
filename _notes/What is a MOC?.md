@@ -9,9 +9,10 @@ tags::  #moc #pkm
 
 
 
-### You may see a number of pages on this site and perhaps other that say MOC.  A MOC is a 'map of content'.  This is a custom index of pages on a related topic.  MOCs are useful in a personal knowledge management system (PKM).  
+### You may see a number of pages on this site, and perhaps others, that say MOC.  An 'MOC' is a 'map of content'.  
+Basically, this is a custom index of pages on a related topic.  MOCs are useful in a personal knowledge management system (PKM).  
 
-As you create notes freely in your PKM, the challenge is how to find them.  By creating a MOC of a particular topic, you can link all notes on that same topic to the MOC and then you have a list of MOCs and each of them will point you to all of the associated content.  
+As you create notes freely in your [Personal knowledge management system](https://en.wikipedia.org/wiki/Personal_knowledge_management), the challenge is how to find them.  By creating a MOC of a particular topic, you can link all notes on that same topic to the MOC and after doing that a few times, then you have a list of MOCs and each of them will point you to all of the associated content.  
 
 ![The Files](https://images.unsplash.com/photo-1569235186275-626cb53b83ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjAwOTd8MHwxfHNlYXJjaHwxfHxpbmRleHxlbnwwfDB8fHwxNjY4NzAxODcx&ixlib=rb-4.0.3&q=80&w=1080)
 *Photo by [Maksym Kaharlytskyi](https://unsplash.com/@qwitka?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*

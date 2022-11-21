@@ -19,10 +19,13 @@ Just by adding that YAML tag to whatever note I'm working on, Obsidian will publ
 
 So, the pages I've shared will either show as a list of links or as a nodes on a graph, depending on how you're viewing this page.  
 
-If you click on a node in the graph, you'll see all the leaves related to that node.  If you prefer, here's a list of the [[What is a MOC |MOCs]] I've shared.
+If you hover on a node in the graph, you'll see all the leaves related to that node.  All nodes are clickable and the graph is scrollable.
+
+If you prefer, here's a list of the MOCs I've shared.  In case you're asking, [[What is a MOC]]?
 
 1. [[Art and Music MOC]]
 2. [[Reading and Writing MOC]]
 3. [[Social Media MOC]]
 
 Enjoy...
+

@@ -15,9 +15,10 @@ The header of this site has navigation that is based on a sampling of what I mak
 share: TRUE
 ```
 Pretty neat huh?
-Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated.   Why isn't everything this easy?
+Just by adding that YAML tag to whatever note I'm working on, Obsidian will publish the page to Github and the Jekyll site will automatically trigger an update at Netlify to get the site updated.   Why isn't everything this easy?
 
 So, the pages I've shared will either show as a list of links or as a nodes on a graph, depending on how you're viewing this page.  
+
 If you click on a node in the graph, you'll see all the leaves related to that node.  If you prefer, here's a list of the [[What is a MOC |MOCs]] I've shared.
 
 1. [[Art and Music MOC]]

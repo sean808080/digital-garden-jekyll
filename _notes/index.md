@@ -17,6 +17,13 @@ share: TRUE
 Pretty neat huh?
 Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated.   Why isn't everything this easy?
 
-So, the pages I've shared will either show as a list of links or as a nodes on a graph, depending on how you're viewing this page.  Enjoy...
+So, the pages I've shared will either show as a list of links or as a nodes on a graph, depending on how you're viewing this page.  
+If you click on a node in the graph, you'll see all the leaves related to that node.  If you prefer, here's a list of the [[What is a MOC |MOCs]] I've shared.
+
+1. [[Art and Music MOC]]
+2. [[Reading and Writing MOC]]
+3. [[Social Media MOC]]
+
+Enjoy...
 
 ---

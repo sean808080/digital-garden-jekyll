@@ -8,7 +8,7 @@ title: index
 # Can I make you a latte?
 ---
 ### What is this?
-I've decided to restart a website and instead of dealing with website administration, I'll use a few hooks to publish content to the site with a simple tag from from my text editor.
+I've decided to restart a website and instead of dealing with website administration, I'll use a few hooks (Obsidian->Github->Jekyll->Netlify) to publish content to the site with a simple tag from from my text editor.
 ### The content
 The header of this site has navigation that is based on a sampling of what I make public in my [Obsidian](https://obsidian.md) vault simply by adding a [YAML](https://www.redhat.com/en/topics/automation/what-is-yaml) tag
 ```yaml

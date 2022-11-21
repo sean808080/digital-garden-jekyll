@@ -26,5 +26,3 @@ If you click on a node in the graph, you'll see all the leaves related to that n
 3. [[Social Media MOC]]
 
 Enjoy...
-
----

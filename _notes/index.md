@@ -5,8 +5,8 @@ title: index
 <a data-flickr-embed="true" data-header="false" data-footer="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52494136477_69e19a03e9_n.jpg" width="480" height="640" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
-# Can I make you a latte?
-####  While I do, why don't you [subscribe to my newsletter)](https://sean808080.substack.com), (just 1 post/month), to stay in touch?  
+### Can I make you a latte?
+##### While I do, why don't you [subscribe to my newsletter)](https://sean808080.substack.com), (just 1 post/month), to stay in touch?  
 ---
 ### What is this?
 I've decided to restart a website and instead of dealing with website administration, I'll use a few hooks (Obsidian->Github->Jekyll->Netlify) to publish content to the site with a simple tag from from my text editor.

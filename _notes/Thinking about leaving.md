@@ -37,3 +37,7 @@ How is it that any other country is able to create policies around gun ownership
     
 
 And here we are… 
+
+Interested in learning more?
+
+There are many terrific references with information on moving to another country. Here’s my [youtube playlist](https://youtube.com/playlist?list=PLNZ0tHW1d014NFZwzdDt-Ay_ozYyRqHdZ) on the topic.

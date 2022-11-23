@@ -3,7 +3,7 @@ share: TRUE
 title: "Thinking about leaving"
 ---
 
-up:: index
+up:: [[index]]
 tags:: #guns #family  #health #politics #expat #usa 
 # Thinking about leaving
 

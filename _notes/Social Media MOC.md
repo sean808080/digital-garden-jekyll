@@ -14,6 +14,7 @@ tags:: #socialmedia #moc #privacy  #internet
 
 ### If you are still interested after reading the [[Social Media Warning]], then here in no particular order is a rundown of platforms I use that could be ostensibly considered social media.
 
+- My newsletter on [Substack](https://sean808080.substack.com)
 - My thoughts on [[Twitter]]
 - My tidbits on [Instagram](https://www.instagram.com/sean808080/)
 - My photos on [Flickr](https://www.flickr.com/photos/sean808080/)

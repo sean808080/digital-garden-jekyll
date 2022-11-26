@@ -24,3 +24,6 @@ tags:: #socialmedia #moc #privacy  #internet
 - My workouts on [Strava](https://www.strava.com)
 - My books on [Goodreads](https://www.goodreads.com/user/show/4647379-sean-808080)
 - My links on [Linktree](https://linktr.ee/sean808080)
+
+You may be wondering where is my [[facebook]] link? I deleted it years ago...here's [why](facebook).
+

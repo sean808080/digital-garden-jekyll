@@ -12,14 +12,15 @@ tags:: #socialmedia #moc #privacy  #internet
 *Photo by [Florian Schmetz](https://unsplash.com/@floschmaezz?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 
-### If you are still interested after reading the [[Social Media Warning]], then here in no particular order is a rundown of platforms I use that could be ostensibly considered social media.
+### If you are still interested after reading the [[Social Media Warning]], then here in no particular order is a rundown of platforms I use that could be considered social media.
 
 - My newsletter on [Substack](https://sean808080.substack.com)
 - My thoughts on [[Twitter]]
 - My tidbits on [Instagram](https://www.instagram.com/sean808080/)
 - My photos on [Flickr](https://www.flickr.com/photos/sean808080/)
+- My videos on [YouTube](https://www.youtube.com/@sean808080)
 - My projects on [GitHub](https://github.com/sean808080)
 - My foray into [Mastodon](https://pkm.social/@sean808080)
 - My workouts on [Strava](https://www.strava.com)
 - My books on [Goodreads](https://www.goodreads.com/user/show/4647379-sean-808080)
-
+- My links on [Linktree](https://linktr.ee/sean808080)
